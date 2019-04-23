@@ -7,3 +7,5 @@ Use case:
 I have a library written in Java and C# and I want code automatically convert and consilidate from both libaries in to a single C# or Java library, while reducing common code elements.
 
 Though libaries across software language platforms are not created equal, for now the project will be restricted to syntax merges assuming framework libraries exist in both.  For most developers such consolidation techniques should be a great time saver.
+
+The long term goal is to have Cartesian Genetic Programming algorithms guide the merging across languages languages. 
